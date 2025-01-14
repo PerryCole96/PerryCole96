@@ -32,7 +32,7 @@ A dynamic platform for posting and interacting with news articles. Features incl
 
 ## Goals
 
-I'm actively seeking to land my first junior position, where I hope to grow my knowledge base and contribute to impactful projects. I bring strong communication, problem-solving, and technical skills, as well as a passion for learning and collaboration and a creative flair.
+I'm actively seeking to land my first junior position, where I hope to hone my current skills, gain new knowledge and contribute to impactful projects. I bring strong communication, problem-solving, and technical skills, as well as a passion for learning and collaboration along with some creative flair.
 
 ## Get in Touch
 
