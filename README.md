@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Perry**, a Junior Software Developer passionate about problem-solving, teamwork, and continuous learning. I recently transitioned into the tech industry after completing the Northcoders - Software Development Bootcamp and I am currently on the lookout for my first job in tech.
+I'm **Perry**, a Junior Software Developer who loves a challenge and is eager to learn. I have recently transitioned into the tech industry after completing the Northcoders - Software Development Bootcamp and I am currently on the lookout for my first job in tech.
 
 ## About Me
 
