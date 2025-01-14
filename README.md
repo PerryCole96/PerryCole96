@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Perry Cole**, a Junior Software Developer passionate about problem-solving, teamwork, and continuous learning. I recently transitioned into the tech industry, leveraging my creativity and technical skills honed through music production and customer service roles.
+I'm **Perry Cole**, a Junior Software Developer passionate about problem-solving, teamwork, and continuous learning. I recently transitioned into the tech industry after completing the Northcoders - Software Development Bootcamp and I am currently on the lookout for my first job in tech.
 
 ## About Me
 
@@ -18,19 +18,21 @@ I'm **Perry Cole**, a Junior Software Developer passionate about problem-solving
 - **Other**: Git, Object-Oriented & Functional Programming
 
 🎵 **Interests**:
-Music has been a lifelong passion, sparked by learning the bass guitar through self-taught tutorials. I also enjoy hiking, often embarking on adventures with my partner and finding them both challenging and rejuvenating.
+Music is a lifelong passion of mine, sparked by learning to play the guitar/bass in my teenage years through tabs and online tutorials. I also enjoy hiking, and cooking, albeit both at a very slow pace.
 
-## Projects
+## Recent Projects
 
 ### **Late Plate** - Restaurant Booking App
-A customer-facing platform for discovering and booking nearby restaurants. Built with React Native, Expo Router, and Supabase, this project simulated professional Agile workflows, including sprint planning and regular feature reviews. [View README](#)
+A customer-facing platform for discovering and booking nearby restaurants. Built with React Native, Expo Router, and Supabase, this project simulated professional Agile workflows, including sprint planning and regular feature reviews. 
+[View README](https://github.com/PerryCole96/late-plate-customer-app/blob/main/README.md)
 
 ### **NC News** - News and Journalism Website
-A dynamic platform for posting and interacting with news articles. Features include topic filtering and user-specific interactions. Built with a React front-end, Express back-end, and PostgreSQL database. [View README](#)
+A dynamic platform for posting and interacting with news articles. Features include topic filtering and user-specific interactions. Built with a React front-end, Express back-end, and PostgreSQL database. 
+[View README](https://github.com/PerryCole96/fe-nc-news/blob/main/README.md)
 
 ## Goals
 
-I'm actively seeking a **Junior Software Developer** position where I can grow and contribute to impactful projects. I bring strong communication, problem-solving, and technical skills, as well as a passion for learning and collaboration.
+I'm actively seeking to land my first junior position, where I hope to grow my knowledge base and contribute to impactful projects. I bring strong communication, problem-solving, and technical skills, as well as a passion for learning and collaboration and a creative flair.
 
 ## Get in Touch
 
