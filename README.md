@@ -36,6 +36,6 @@ I'm actively seeking a **Junior Software Developer** position where I can grow a
 
 📧 Email: [perrycole1996@gmail.com](mailto:perrycole1996@gmail.com)
 
-🌐 [LinkedIn](#) 
+🌐 [LinkedIn](http://www.linkedin.com/in/perrycole1996) | [GitHub](https://github.com/PerryCole96)
 
 Feel free to reach out—I’d love to connect!
